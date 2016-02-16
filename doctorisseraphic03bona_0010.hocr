@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./doctorisseraphic03bona_0010.png"; bbox 0 0 2166 3366; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 826 324 1089 404">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 826 324 1089 404">
+     <span class='ocr_line' id='line_1_1' title="bbox 826 324 1089 404; baseline 0.015 -13"><span class='ocrx_word' id='word_1_1' title='bbox 826 356 923 391; x_wconf 26' lang='lat' dir='ltr'>N)</span> <span class='ocrx_word' id='word_1_2' title='bbox 981 324 1089 404; x_wconf 50' lang='grc' dir='ltr'><strong><em>Μ</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 887 1286 1463 1393">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 887 1286 1463 1393">
+     <span class='ocr_line' id='line_1_2' title="bbox 887 1286 1463 1348; baseline 0.042 -26"><span class='ocrx_word' id='word_1_3' title='bbox 887 1286 1056 1325; x_wconf 74' lang='lat' dir='ltr'>Bos&#39;mN</span> <span class='ocrx_word' id='word_1_4' title='bbox 1076 1296 1260 1336; x_wconf 80' lang='lat' dir='ltr'>COLLEGE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1282 1307 1463 1348; x_wconf 74' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 927 1338 1415 1393; baseline 0.031 -15"><span class='ocrx_word' id='word_1_6' title='bbox 927 1338 1151 1378; x_wconf 70' lang='lat' dir='ltr'>CHESTNUT</span> <span class='ocrx_word' id='word_1_7' title='bbox 1172 1350 1275 1389; x_wconf 65' lang='lat' dir='ltr'>HJLL</span> <span class='ocrx_word' id='word_1_8' title='bbox 1298 1356 1415 1393; x_wconf 75' lang='lat' dir='ltr'>MAss.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1495 3232 1821 3283">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1495 3232 1821 3283">
+     <span class='ocr_line' id='line_1_4' title="bbox 1495 3232 1821 3283; baseline 0.018 -6"><span class='ocrx_word' id='word_1_9' title='bbox 1495 3232 1575 3272; x_wconf 66' lang='grc' dir='ltr'>ἃΑΝ</span> <span class='ocrx_word' id='word_1_10' title='bbox 1598 3240 1620 3277; x_wconf 73' lang='lat'><em>2</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1641 3238 1661 3271; x_wconf 65' lang='grc'><strong>4</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1690 3249 1763 3283; x_wconf 72' lang='lat'>1990</span> <span class='ocrx_word' id='word_1_13' title='bbox 1820 3242 1821 3245; x_wconf 78' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
